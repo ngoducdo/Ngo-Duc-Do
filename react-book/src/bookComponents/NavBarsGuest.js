@@ -54,7 +54,7 @@ const NavBarsGuest = (props) => {
                             </Link></Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
-                    <Nav.Link><Link to="/login" style={{position: "fixed", right: 200}}>Login</Link></Nav.Link>
+                    <Nav.Link><Link to="/login" style={{position: "fixed", right: 200,color:"black",textDecoration:"none"}}>Login</Link></Nav.Link>
 
                 </Container>
             </Navbar>
